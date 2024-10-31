@@ -18,8 +18,8 @@ In this article, we cover the following topics:
 Each section comes with clear explanations and exercises designed to reinforce your understanding. By the end, you'll have a solid grasp of Python fundamentals and the confidence to take on more advanced projects.
 
 To get the most out of this guide:
-- **Read the theory**: Get familiar with each topic by reviewing our [Python Theory Page](https://pythonid.com/tutorials/python-intro).
-- **Practice with exercises**: After each topic, check out our collection of [Python Practice Exercises](https://pythonid.com/) to reinforce what you've learned.
+- **Read the theory**: Get familiar with each topic by reviewing our <a href="https://pythonid.com/tutorials/python-intro" target="_blank">Python Theory Page</a>.
+- **Practice with exercises**: After each topic, check out our collection of <a href="https://pythonid.com/" target="_blank">Python Practice Exercises</a>.
 
 ---
 
